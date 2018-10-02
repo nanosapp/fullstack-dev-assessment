@@ -1,14 +1,28 @@
 # Fullstack Assesment
 
-The goal of this test is not to evaluate how fast you deliver results or how much you master one particular language but rather your problem solving and decision making skills.
+The goal of this test is not to evaluate how fast you deliver results but rather your problem solving and decision making skills.
 
-For this test, we do not provide design mockups in order to let the developer express their Front-end knowledge, all we expect is that you come up with a clean and easy to navigate user interface.
-
-We do not specify a particular language or framework to be used to solve this problem but we expect you to justify your choices.
+For this test, we do not provide design mockups in order to let the developer express their Front-end knowledge, but we expect  you to come up with a clean and easy to navigate user interface.
 
 If you get in "the zone" while working on the test and feel that you can do more then the minimum requirements of the task, please feel free to impress us with your skills and knowhow. It will not go unnoticed.
 
 Feel free to use packages, libraries, Frameworks and even starters/code generators or code snippets, but please mention any code that is not yours and justify the use in a sentence or two.
+
+We expect you to use the following technologies for the Front-end:
+- ReactJS
+- Redux
+- Redux Sagas
+- React Router
+- Material UI
+- Axios
+
+For the Backend please choose one of the following:
+- NodeJS
+- Spring
+- Python(Jango or Flask).
+
+We highly apprecaite candidates who deliver their projects on a containerized environment using Docker (Docker-compose Kubernates are also welcome).
+
 
 ### We Will be evaluating you on the following:
 
@@ -23,7 +37,6 @@ Feel free to use packages, libraries, Frameworks and even starters/code generato
 
 - User experience(Animation, Transitions ...etc)
 - Design decisions(colors, layout... etc)
-- Language choice
 - Speed
 
 ### Recommended deliverables:
@@ -36,7 +49,7 @@ Feel free to use packages, libraries, Frameworks and even starters/code generato
 ## The Task:
 
 Included in this repository you will find a file named data.json in the /data folder.
- The file contains a list of Advertising campaigns created by a single user over time. each campaign is composed of different platforms (Google AdWords, Facebook, Instagram)
+The file contains a list of Advertising campaigns created by a single user over time. each campaign is composed of different platforms (Google AdWords, Facebook, Instagram)
 
 We would like to expose this list via a simple API endpoint and allow the client app to consume it and display all the campaigns of the user in a compact view(something in the line of a dashboard, grid or even a table).
 Please feel free to use a database of your choice(SQL or NoSQL) and pre-populate it every time the service is started with the content of the json file as you see fit.
