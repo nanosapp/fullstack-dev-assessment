@@ -10,8 +10,8 @@ Feel free to use packages, libraries, Frameworks and even starters/code generato
 
 We expect you to use the following technologies for the Front-end:
 - ReactJS
-- Redux
-- Redux Sagas
+- Redux(if you judge needed)
+- Redux Sagas (if you judge needed)
 - React Router
 - Material UI
 - Axios
