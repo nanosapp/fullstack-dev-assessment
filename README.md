@@ -1,6 +1,6 @@
 # Fullstack Assesment
 
-The goal of this test is not to evaluate how fast you deliver results but rather your problem solving and decision making skills.
+The goal of this test is to evaluate how fast you deliver results but rather your problem solving and decision making skills.
 
 For this test, we do not provide design mockups in order to let the developer express their Front-end knowledge, but we expect  you to come up with a clean and easy to navigate user interface.
 
@@ -20,7 +20,7 @@ For the Backend please choose one of the following:
 - Python(Jango or Flask).
 - Go
 
-We highly apprecaite candidates who deliver their projects on a containerized environment using Docker (Docker-compose Kubernates are also welcome).
+We highly appreciate candidates who deliver their projects on a containerized environment using Docker (Docker-compose Kubernates are also welcome).
 
 
 ### We Will be evaluating you on the following:
