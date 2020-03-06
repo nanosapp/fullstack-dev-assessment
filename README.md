@@ -10,16 +10,14 @@ Feel free to use packages, libraries, Frameworks and even starters/code generato
 
 We expect you to use the following technologies for the Front-end:
 - ReactJS
-- Redux(if you judge needed)
-- Redux Sagas (if you judge needed)
-- React Router
-- Material UI
-- Axios
+- Angular
+Or if you decide to deliver a Mobile version:
+- React Native
 
 For the Backend please choose one of the following:
 - NodeJS
-- Spring
 - Python(Jango or Flask).
+- Go
 
 We highly apprecaite candidates who deliver their projects on a containerized environment using Docker (Docker-compose Kubernates are also welcome).
 
@@ -33,11 +31,10 @@ We highly apprecaite candidates who deliver their projects on a containerized en
 - Error handling
 - Testing
 
-### We will not be evaluating you on the following:
+### Bonus Points:
 
 - User experience(Animation, Transitions ...etc)
 - Design decisions(colors, layout... etc)
-- Speed
 
 ### Recommended deliverables:
 
