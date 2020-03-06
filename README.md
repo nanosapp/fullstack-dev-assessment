@@ -11,6 +11,7 @@ Feel free to use packages, libraries, Frameworks and even starters/code generato
 We expect you to use the following technologies for the Front-end:
 - ReactJS
 - Angular
+
 Or if you decide to deliver a Mobile version:
 - React Native
 
