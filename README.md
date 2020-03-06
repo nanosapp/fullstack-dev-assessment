@@ -1,4 +1,4 @@
-# Fullstack Assesment
+# Frontend/Fullstack Assesment
 
 The goal of this test is to evaluate how fast you deliver results but rather your problem solving and decision making skills.
 
