@@ -60,7 +60,7 @@ Please provide a solution to expose these images and allow the client app to hav
 
 Please write tests wherever and whenever you feel adequate
 
-### All images in the /images folder where originally downloaded from UpSplash
+### All images in the /images folder where originally downloaded from UnSplash
 
 `img1.jpg Photo by Jacob Miller on Unsplash`
 
