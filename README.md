@@ -2,7 +2,7 @@
 
 The goal of this test is to evaluate how fast you deliver results but rather your problem solving and decision making skills.
 
-For this test, we do not provide design mockups in order to let the developer express their Front-end knowledge, but we expect  you to come up with a clean and easy to navigate user interface.
+For this test, we do not provide design mockups in order to let the developer express their Front-end knowledge, but we expect you to come up with something simple and understandable. Note, we will not be judging the UX created - so anything simple to develop and logical & easy to understand should work fine.
 
 If you get in "the zone" while working on the test and feel that you can do more then the minimum requirements of the task, please feel free to impress us with your skills and knowhow. It will not go unnoticed.
 
